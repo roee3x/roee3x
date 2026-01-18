@@ -18,23 +18,18 @@ Here are some ideas to get you started:
 
 
 # Hi, I’m Roee 👋 
+# Senior Software Engineer 👋
 
-Senior Software Engineer with **6+ years of experience** building high-performance systems and managing complex deployment pipelines. I specialize in bridging the gap between low-level code (C++/C#) and automated cloud infrastructure.
+High-performance systems engineer focused on architectural efficiency and hardware-software interop.
 
-### 🚀 What I'm doing right now
-- **Modernizing Infrastructure:** Transitioning 6 years of systems engineering into a Full-Stack & DevOps-first approach.
-- **Automation Enthusiast:** Building CI/CD pipelines to replace manual overhead with high-velocity workflows.
-- **FinTech Automation:** Developing custom algorithmic trading systems with Python and Webhook integrations.
+### 🚀 Engineering Highlights
+- [cite_start]**Systems Architecture:** Developed high-perf C# & C++ DLLs for real-time hardware synchronization.
+- [cite_start]**Backend Migration:** Led the transition of legacy Python server logic to high-performance .NET environments.
+- [cite_start]**Infrastructure Tools:** Engineered custom distributed data-management systems and automation compilers to streamline R&D[cite: 25, 26, 28, 66, 67, 69].
 
 ### 🛠️ Core Stack
-- **Languages:** C# (Senior), C++ (Systems), Python (Automation), Java, JavaScript.
-- **Systems & Ops:** CI/CD Pipelines, Build Engineering, Infrastructure as Code (IaC), DLL Development.
-- **Game Tech:** Unity, Godot, Unreal (Architecture-focused).
-
-### 📈 Metrics that matter
-- **Performance:** Optimized legacy codebases for **40% speed gains**.
-- **Scalability:** Built custom asset-distribution systems increasing throughput by **150%**.
-- **Efficiency:** Automated dev-tools that cut R&D cycles by **50%**.
+- **Languages:** C# (Senior), Python, C++, Java, TypeScript.
+- **Expertise:** Real-time data pipelines, Hardware Interop (BLE/IMU), Distributed Systems, CI/CD.
 
 ---
 
