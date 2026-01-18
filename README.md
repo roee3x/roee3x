@@ -18,18 +18,21 @@ Here are some ideas to get you started:
 
 
 # Hi, I’m Roee 👋 
-# Senior Software Engineer 👋
+Senior Systems & Software Engineer 🚀
 
-High-performance systems engineer focused on architectural efficiency and hardware-software interop.
+I design high-performance architectures where latency and throughput are critical. 
 
-### 🚀 Engineering Highlights
-- [cite_start]**Systems Architecture:** Developed high-perf C# & C++ DLLs for real-time hardware synchronization.
-- [cite_start]**Backend Migration:** Led the transition of legacy Python server logic to high-performance .NET environments.
-- [cite_start]**Infrastructure Tools:** Engineered custom distributed data-management systems and automation compilers to streamline R&D[cite: 25, 26, 28, 66, 67, 69].
+### 🛠️ Core Expertise
+- **Systems Engineering:** Custom DLLs (C++/C#) & Hardware-Software Interop (BLE/IMU).
+- **Backend & Infrastructure:** Server migrations (Python to .NET) & Distributed Data Systems.
+- **Quant Dev:** Algorithmic system design using Java and Python.
 
-### 🛠️ Core Stack
-- **Languages:** C# (Senior), Python, C++, Java, TypeScript.
-- **Expertise:** Real-time data pipelines, Hardware Interop (BLE/IMU), Distributed Systems, CI/CD.
+### 📈 Proven Impact
+- Led the migration of medical-grade server logic to high-performance C#.
+- Architected custom asset-delivery systems to replace standard industry bottlenecks.
+- Optimized legacy systems, achieving significant gains in stability and performance.
+
+📫 [ice.rsproduction@gmail.com] (Note: I highly suggest an alias like roee.shkalim.eng@gmail.com)
 
 ---
 
