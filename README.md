@@ -32,7 +32,7 @@ I design high-performance architectures where latency and throughput are critica
 - Architected custom asset-delivery systems to replace standard industry bottlenecks.
 - Optimized legacy systems, achieving significant gains in stability and performance.
 
-📫 [ice.rsproduction@gmail.com] (Note: I highly suggest an alias like roee.shkalim.eng@gmail.com)
+📫 [ice.rsproduction@gmail.com]
 
 ---
 
